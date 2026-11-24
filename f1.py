@@ -1,0 +1,1 @@
+print("Thanku yoy Ambi for everything")
